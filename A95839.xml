@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last dying speech and behaviour of Capt. Thomas Vaughan who was executed for high-treason, at execution-dock, on Wednesday, Decemb. the 9th. 1696.</title>
+            <author>Vaughan, Thomas, 1669?-1696, defendant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95839</idno>
+            <idno type="STC">Wing V155</idno>
+            <idno type="STC">ESTC R42761</idno>
+            <idno type="EEBO-CITATION">38875720</idno>
+            <idno type="OCLC">ocm 38875720</idno>
+            <idno type="VID">152470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2298:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last dying speech and behaviour of Capt. Thomas Vaughan who was executed for high-treason, at execution-dock, on Wednesday, Decemb. the 9th. 1696.</title>
+                  <author>Vaughan, Thomas, 1669?-1696, defendant.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement: p. [2].</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of Claifornia, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vaughan, Thomas, --  Capt., 1669?-1696.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="scaffold_speech">
+            <pb facs="tcp:152470:1" rendition="simple:additions"/>
+            <head>THE <hi>Laſt Dying Speech</hi> AND BEHAVIOUR OF Capt. Thomas Vaughan: Who was Executed for HIGH-TREASON, AT <hi>Execution-Dock,</hi> on <hi>Wedneſday, Decemb.</hi> the 9th. 1696.</head>
+            <p>BEing brought on a <hi>Hurdle</hi> to the Place of <hi>Execution,</hi> where a Gibbet was E<g ref="char:EOLhyphen"/>rected; and before he went up the <hi>Ladder,</hi> he deſired Liberty to Pray; which being readily granted, he ſtood by the <hi>Ladder,</hi> and ſaid,
+<q>I Bequeath my Soul to God, and my Body to the Earth; I abandon all Material Good, as mere Vanity. I repent heartily of my Sins; I pardon, with all my Heart, all my Enemies from the bottom of my Heart. I believe in God the Father, Son, and Holy Ghoſt; God all-wiſe, all-good, and hope to be ſaved by the Merits of the Second Per<g ref="char:EOLhyphen"/>ſon, who dy'd on the Croſs, to ſave me: And I believe whatever the Holy Catholick<hi> Ro<g ref="char:EOLhyphen"/>man </hi>Church propoſes to me to believe; and I hope, through the Merits of my Saviour, to have all my Sins pardon'd: I reſign my ſelf to him, relying on his Mercy, for the Par<g ref="char:EOLhyphen"/>don of all my Sins, and in that hope am ready to die: And I beſeech the Bleſſed Virgin, and all the Saints and Angels in Heaven, to receive my Soul; Jeſus<hi> Maria, </hi>help me to Embrace thee in my Arms; and if my Heart fails, enable me to do it in my Judgment. I ſay, with all Humility,<hi> Jeſu Maria, </hi>have Mercy on me.</q>
+            </p>
+            <p>There being a great Crowd, he ſaid,
+<q>Pray let me ſay my Prayers. Merciful God, let me not die in any of the Seven deadly Sins. I repent me, from the bottom of my Heart, that I have ſinned in Thought, Word, or Deed. I forgive all the World; I reſign my ſelf into thy Arms; let thy Mercy ſhelter me, ſweet God of Heaven; <hi>Jeſu Maria,</hi> have Mercy on me. O God, I come unto thee, in Remem<g ref="char:EOLhyphen"/>brance of the five Wounds of my Saviour; beſeeching thee, for the ſake of his Wounds, be pleaſed to have Mercy on my poor Soul. <hi>I</hi> repent from the bot<g ref="char:EOLhyphen"/>tom of my Heart, that <hi>I</hi> have ſinned. God's Will be done, and not mine.</q>
+            </p>
+            <sp>
+               <speaker>Executioner.</speaker>
+               <p>If the Gentleman has done, give way.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Capt.</hi> Vaughan.</speaker>
+               <p>No, <hi>I</hi> have not done yet.</p>
+            </sp>
+            <p>He Prays by himſelf.</p>
+            <p>Then the <hi>Executioner</hi> pull'd off his Cravat.</p>
+            <sp>
+               <speaker>
+                  <hi>Capt.</hi> Vaughan.</speaker>
+               <p>I am a great Sinner; let me beg of you a little time to repent.</p>
+            </sp>
+            <p>Then he pray'd ſome time by himſelf: And, when he had done, ſaid,
+<q>Now, my Lad, when you pleaſe.</q>
+            </p>
+            <p>Then he went up the <hi>Ladder,</hi> and had the <hi>Rope</hi> ty'd about his Neck. And that being done, he ſaid, <q>
+                  <hi>I</hi> have ſomething to ſay publickly.</q>
+            </p>
+            <div type="speech_proper">
+               <pb facs="tcp:152470:2"/>
+               <head>Capt. Vaughan's Speech.</head>
+               <q>
+                  <p>I <hi>Do not value this Death; it is nothing in compariſon of the Death our Saviour ſuffer'd for me. Whatever I have undergone in my whole Life, that I offer in Recompence for my paſt Sins, hoping God will have Mercy on my poor Soul. I am here to ſuffer Death; I declare I never bore Arms but for the King of</hi> France, <hi>and out of</hi> France. <hi>I was true to my-Truſt. It's true, I bore King</hi> James <hi>my Master's Commiſſion, and I thought I was obliged to do it; and I thought, that what I did for the King of</hi> France, <hi>I did for King</hi> James. <hi>I ask all Men Pardon, that I have any way wronged; I did not act diſhonourably to thoſe I took, to my Knowledge: Therefore I beg that you would Recommend it to the</hi> Government, <hi>not to be hard on that poor Man; and I own I did that, to ſee whether I could ſave my Life, yet they did not prove to me as I thought they would; I did it clearly to get my ſelf looſe out of their Hands: So I beg of you, that I may have leave to ſay my Prayers a little.</hi>
+                  </p>
+               </q>
+               <sp>
+                  <speaker>Mr. Marſhall.</speaker>
+                  <p>Pray do, Capt. <hi>Vaughan,</hi> take your own time.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Capt.</hi> Vaughan.</speaker>
+                  <p>O my dear God, I offer my Soul to thee, <hi>Jeſu Maria,</hi> my dear Lord and Saviour, my dear God of Heaven, have Mercy on me. I offer my Soul and Body to thee, my dear God and Saviour; I deſire the Prayers of all good Chriſtians; I forgive, from the bottom of my Heart, all Perſons in the World; and I ask them Forgiveneſs that I have offended, and I hope they will forgive me. Mr. <hi>Sheriff,</hi> I humbly beg, that I may not be put off, till I ſay my Prayers; till I put my Cap over my Face.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Marſhall.</speaker>
+                  <p>No, no, take your own time.</p>
+               </sp>
+               <p>Then he continued a conſiderable time in his Prayers to himſelf, and after<g ref="char:EOLhyphen"/>wards ſaid,<q>Mr. <hi>Sheriff,</hi> I beg you will deſire of the <hi>Government,</hi> they will do no harm to the People I was a means of accuſing.</q>
+               </p>
+               <sp>
+                  <speaker>Mr. Marſhall.</speaker>
+                  <p>I will take Care to repreſent what you deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Capt.</hi> Vaughan.</speaker>
+                  <p>O all good Chriſtians, pray for me. O God, into your Arms I commit my Soul: I am heartily ſorry that I have ſinned in Thought, Word, or Deed. Well, I leave my Bleſſing to you all; I humbly beg your Prayers. I humble my ſelf to Death for the Love of Chriſt, freely, from my very Heart; I offer my ſelf to Death; into thy Hands, my dear God and Saviour, <hi>I</hi> com<g ref="char:EOLhyphen"/>mit my ſelf.</p>
+               </sp>
+               <p>Then he pray'd a ſhort time to himſelf, and pull'd the <hi>Cap</hi> over his Eyes, and was turn'd off; and being dead, was quarter'd according to his Sentance:</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>NExt Week will be Publiſhed the Tryals at large of the <hi>Pyrates</hi> of <hi>Every</hi>'s Crew; and alſo, the Tryal of Capt. <hi>Vaughan,</hi> for <hi>High-Treaſon.</hi> Publiſhed by Autho<g ref="char:EOLhyphen"/>rity, and Printed for <hi>John Everingham,</hi> Bookſeller, at the <hi>Star,</hi> in <hi>Ludgate-ſtreet.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
